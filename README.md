@@ -1,4 +1,4 @@
-# GitHub Repository Social Preview Template for `💎 Sketch`
+# GitHub Repository Social Preview Sketch Template
 
 [![StandWithUkraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://github.com/vshymanskyy/StandWithUkraine)&nbsp;
 
